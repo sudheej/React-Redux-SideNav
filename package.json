@@ -1,8 +1,8 @@
 {
-  "name": "expensify",
+  "name": "sidenav",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Andrew Mead",
+  "author": "sudheej",
   "license": "MIT",
   "scripts": {
     "serve": "live-server public/",
